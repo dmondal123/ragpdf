@@ -1,0 +1,9 @@
+langchain 
+langchain_community 
+fastapi
+uvicorn
+streamlit_chat 
+chromadb 
+pypdf 
+fastembed
+python-multipart
